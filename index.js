@@ -4,4 +4,7 @@ class unit{
     getData(){
         console.log(this.name, this.age)
     }
+    SprintMen(){
+        console.log(this.name)
+    }
 }
