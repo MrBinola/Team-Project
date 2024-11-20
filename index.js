@@ -7,4 +7,7 @@ class unit{
     SprintMen(){
         console.log(this.name)
     }
+    SprintMan(){
+        console.log(this.age)
+    }
 }
